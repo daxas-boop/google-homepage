@@ -1,2 +1,2 @@
-## Dummy google home page.
-### For the Odin Project - HTML/CSS Project
+# PROJECT: HTML/CSS
+Dummy google home page with css for the Odin Project.
